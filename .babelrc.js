@@ -9,6 +9,7 @@ const plugins = [
   "@babel/plugin-syntax-import-meta",
   "@babel/plugin-proposal-class-properties",
   "@babel/plugin-proposal-json-strings",
+  "@babel/plugin-transform-classes",
   [
     "@babel/plugin-proposal-decorators",
     {
