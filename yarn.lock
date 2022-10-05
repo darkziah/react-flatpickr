@@ -6877,6 +6877,15 @@ react-dom@^18.0.0:
     loose-envify "^1.1.0"
     scheduler "^0.21.0"
 
+"react-flatpickr@https://github.com/darkziah/react-flatpickr":
+  version "3.10.13"
+  resolved "https://github.com/darkziah/react-flatpickr#f3d03fdac8c8963876b7d62bef7598ec5fb41b51"
+  dependencies:
+    "@babel/preset-typescript" "^7.18.6"
+    "@types/react-router-dom" "^5.3.3"
+    flatpickr "^4.6.2"
+    prop-types "^15.5.10"
+
 react-is@^16.13.1, react-is@^16.6.3, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
